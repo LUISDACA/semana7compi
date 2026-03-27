@@ -26,4 +26,4 @@ done
 
 echo "[INFO][NODO3] $(date) - Update finalizado" >> $LOG
 
-echo "Nodo3 actualizado correctamente "
+echo "Nodo3 actualizado correctamente ajs "
