@@ -19,5 +19,5 @@ sleep 1
 
 echo "[INFO] $(date) - Deploy finalizado" >> $LOG
 
-echo "Deploy completado 🚀"
+echo "Deploy completado"
 echo "Log guardado en logs/deploy.log"
