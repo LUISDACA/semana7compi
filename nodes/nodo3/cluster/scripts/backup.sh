@@ -26,4 +26,4 @@ done
 
 echo "[INFO][NODO3] $(date) - Backup completado" >> $LOG
 
-echo "Backup nodo3 completado "
+echo "Backup nodo3 completado 2 "
